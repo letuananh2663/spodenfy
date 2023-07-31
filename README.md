@@ -1,8 +1,6 @@
-# Full Stack Spotify Clone with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
+# Spodenfy
 
 [![Header](https://github.com/letuananh2663/spodenfy/blob/main/public/demo.png)](https://github.com/letuananh2663)
-
-This is a repository for a Full Stack Spotify Clone with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
 
 Key Features:
 
